@@ -1,5 +1,5 @@
 {
-    "name": "tranchess-core",
+    "name": "emnul-core",
     "scripts": {
         "check": "yarn run lint && prettier --ignore-path .gitignore -c .",
         "fmt": "prettier --ignore-path .gitignore -w .",
