@@ -1,6 +1,6 @@
-# Tranchess Core
+# Emnul Core
 
-Tranchess core.
+Emnul core.
 
 # Local Development
 
